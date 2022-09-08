@@ -40,5 +40,6 @@ Files
 
 -[clustering_big.ipynb](https://github.com/AmeliaHu0920/urop-project/blob/main/clustering_big.ipynb) is used to perform clustering on PhononDB
 
--Example Outputs from codes please see the [this folder](https://github.com/AmeliaHu0920/urop-project/tree/main/example-outputs)
+-Example Outputs from codes please see [this folder](https://github.com/AmeliaHu0920/urop-project/tree/main/example-outputs)
 
+:wink::wink:
